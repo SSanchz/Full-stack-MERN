@@ -1,9 +1,9 @@
 {
   "name": "library_cs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
-    "start": "concurrently \"node server.js\" \"npm run client\"",
+    "start": "powershell -Command \"Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; concurrently 'node server.js' 'npm run client'\"",
     "client": "npm start --prefix client"
   },
   "keywords": [],
