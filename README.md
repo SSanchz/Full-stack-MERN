@@ -30,7 +30,7 @@ This is a full-stack MERN application to track library books. The application al
 
 ```bash
 git clone https://github.com/SSanchz/Full-stack-MERN.git
-cd library-book-tracker
+cd Full-stack-MERN
 
 Server dependencies:
 ```bash
