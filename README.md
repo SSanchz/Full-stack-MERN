@@ -29,7 +29,7 @@ This is a full-stack MERN application to track library books. The application al
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/capstone.git
+git clone https://github.com/SSanchz/Full-stack-MERN.git
 cd library-book-tracker
 
 Server dependencies:
