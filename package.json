@@ -1,0 +1,21 @@
+{
+  "name": "library_cs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"node server.js\" \"npm run client\"",
+    "client": "npm start --prefix client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1"
+  }
+}
