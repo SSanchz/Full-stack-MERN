@@ -17,8 +17,11 @@ This is a full-stack MERN application to track library books. The application al
 - React
 - Node.js
 
-## Getting Started
+##
+Demo: 
+![image](https://github.com/user-attachments/assets/a5ae10ab-8686-48a3-a23a-012250786d01)
 
+##
 ### Prerequisites
 
 - Node.js
